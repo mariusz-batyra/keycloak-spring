@@ -1,0 +1,1 @@
+call standalone.bat -Dkeycloak.migration.action=export -Dkeycloak.migration.provider=singleFile -Dkeycloak.migration.realmName=keycloack-test -Dkeycloak.migration.file=keycloak-realm.json
